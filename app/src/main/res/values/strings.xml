@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To-day</string>
+    <string name="mainactivity_title_tf">Welcome to To-Day!</string>
+    <string name="mainactivity_title_btn">Register Here</string>
+    <string name="mainactivity_title_btn2">Login Here</string>
+
+    <string name="registeractivity_title_tf">Register User</string>
+    <string name="registeractivity_title_btn">Register</string>
+    <string name="registeractivity_passWord_btn">Enter Password</string>
+
+    <string name="loginactivity_title_tf">Login User</string>
+    <string name="loginactivity_title_btn">Login</string>
+</resources>
